@@ -1,6 +1,5 @@
-# Derrick's Laboratory
 
-Welcome to my laboratory! 
+Welcome to my laboratory! My place to share my experiments, projects, and more.
 
 ---
 
