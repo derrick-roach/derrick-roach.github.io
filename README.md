@@ -54,6 +54,11 @@ Cybersecurity and AI professional with experience in AWS security, GRC, GitHub, 
 
 ---
 
-## 🔗 connect with me
+## 🔗 links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/drrckrch/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/drrckrch/)
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/derrick-roach)
+
+[![See this repo on GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/derrick-roach/derrick-roach.github.io)
+
