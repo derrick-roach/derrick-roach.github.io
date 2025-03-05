@@ -5,9 +5,11 @@ Hi, I'm Derrick 👋 welcome to my laboratory! 🧪
 
 This is my place to share my experiments, projects, and more.
 
-<br><br>
+<br>
+
 ---
-<br><br>
+
+<br>
 
 ## 📝 about me
 
@@ -21,9 +23,11 @@ Cybersecurity and AI professional experimenting with emerging technologies. Lear
 | 🤔 **Master overthinker** | 🤷 **Skeptical optimist** | 📜 **Polymath** |
 | 🏋️ **Armchair athlete** | 🤓 **Wise fool** | 🧘 **Stoic** |
 
-<br><br>
+<br>
+
 ---
-<br><br>
+
+<br>
 
 ## 🥽 experiments & projects 🚀
 
@@ -74,8 +78,4 @@ Cybersecurity and AI professional experimenting with emerging technologies. Lear
 
 <br><br>
 
-<div align="center">
-
 Made with 💚 by [Derrick](https://github.com/derrick-roach)
-
-</div>
