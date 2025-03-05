@@ -1,4 +1,3 @@
-<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="100">
 
@@ -12,7 +11,7 @@ This is my place to share my experiments, projects, and more.
 
 ## 📝 about me
 
-Cybersecurity and AI professional with experience in AWS security, GRC, GitHub, AI integration, Prompt engineering, LLM RAG implementation, GPT customization, DevSecOps, and security assessment. Disciplined security consultant, forward-thinking leader, and trusted advisor with a growth mindset and agile approach toward high-value business outcomes.
+Cybersecurity and AI professional experimenting with emerging technologies. Learning by doing. Applying principles and wisdom from renowned thinkers. 
 
 | Me | Myself | and I |
 |----------|----------|----------|
@@ -74,6 +73,8 @@ Cybersecurity and AI professional with experience in AWS security, GRC, GitHub, 
 [![See this repo on GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/derrick-roach/derrick-roach.github.io)
 
 <br><br>
+
+<div align="center">
 
 Made with 💚 by [Derrick](https://github.com/derrick-roach)
 
