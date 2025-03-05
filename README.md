@@ -1,33 +1,13 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="100">
+<img src="./images/hand-wave.gif" width="100">
 
 Hi, I'm Derrick 👋 welcome to my laboratory! 🧪
 
 This is my place to share my experiments, projects, and more.
 
-<br>
-
----
-
-<br>
-
-## 📝 about me
-
-Cybersecurity and AI professional experimenting with emerging technologies. Learning by doing. Applying principles and wisdom from renowned thinkers. 
-
-| Me | Myself | and I |
-|----------|----------|----------|
-| 👨‍💻 **Technologist** | 🧠 **Self-taught Neanderthal** | 📚 **Lifelong learner** |
-| 🧑‍🧑‍🧒‍🧒 **Cofounder of 2 kids** | 💭 **Chronic daydreamer** | 🔧 **Jack of all trades** |
-| 🏆 **World’s okayest dad** | 🧐 **My own worst critic** | 🌐 **Generalist** |
-| 🤔 **Master overthinker** | 🤷 **Skeptical optimist** | 📜 **Polymath** |
-| 🏋️ **Armchair athlete** | 🤓 **Wise fool** | 🧘 **Stoic** |
-
-<br>
-
----
-
-<br>
+<br><br>
+<img src="./images/laptop-wide.gif" width="900">
+<br><br>
 
 ## 🥽 experiments & projects 🚀
 
@@ -44,28 +24,9 @@ Cybersecurity and AI professional experimenting with emerging technologies. Lear
 > Personal finance mentor blending Ben Franklin’s timeless wisdom with modern money strategies.
 
 <br><br>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="900">
-<br><br>
-
-## ⚙️ skills 🛠️
-
-| 🛡️ | 🔒 |
-|:----------|----------:|
-| **Application Security** | **Security Assessment** |
-| **DevSecOps** | **Security Operations** |
-| **Risk Assessment** | **FedRAMP Audits** |
-| **Risk Management** | **HIPAA Security** |
-| **Project Management** | **Compliance Management** |
-| **Vulnerability Management** | **System Administration** |
-| **Continuous Monitoring** | **System Configuration** |
-| **Strategic Planning** | **Problem Solving** |
-| **Software Supply Chain Security** | **Security Automation** |
-| **Secure SDLC** | **SAST/DAST** |
-
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">&nbsp;
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="100">&nbsp;
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="100">&nbsp;
+<img src="./images/code-brackets.gif" width="100">&nbsp;
+<img src="./images/gears.gif" width="100">&nbsp;
+<img src="./images/rocket.gif" width="100">&nbsp;
 <br><br>
 
 ## 🔗 links
