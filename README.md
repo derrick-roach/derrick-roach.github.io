@@ -7,35 +7,14 @@ Welcome to my laboratory! My place to share my experiments, projects, and more.
 
 Cybersecurity and AI professional with experience in AWS security, GRC, GitHub, AI integration, Prompt engineering, LLM RAG implementation, GPT customization, DevSecOps, and security assessment. Disciplined security consultant, forward-thinking leader, and trusted advisor with a growth mindset and agile approach toward high-value business outcomes.
 
-👨‍💻 **Technologist**
+| Me | Myself | and I |
+|----------|----------|----------|
+| 👨‍💻 **Technologist** | 🧠 **Self-taught Neanderthal** | 📚 **Lifelong learner** |
+| 👨‍👧‍👦 **Cofounder of 2 kids** | 💭 **Chronic daydreamer** | 🔧 **Jack of all trades** |
+| 🏆 **World’s okayest dad** | 🧐 **My own worst critic** | 🌐 **Generalist** |
+| 🤔 **Master overthinker** | 🤷 **Skeptical optimist** | 📜 **Polymath** |
+| 🏋️ **Armchair athlete** | 🤓 **Wise fool** | 🧘 **Stoic** |
 
-👨‍👧‍👦 **Cofounder of 2 kids**
-
-🏆 **World’s okayest dad**
-
-🤔 **Master overthinker**
-
-🏋️ **Armchair athlete**
-
-🧠 **Self-taught Neanderthal**
-
-💭 **Chronic daydreamer**
-
-🧐 **My own worst critic**
-
-🤷 **Skeptical optimist**
-
-🤓 **Wise fool**
-
-📚 **Lifelong learner**
-
-🔧 **Jack of all trades**
-
-🌐 **Generalist**
-
-📜 **Polymath**
-
-🧘 **Stoic**
 
 ---
 
@@ -57,26 +36,19 @@ Cybersecurity and AI professional with experience in AWS security, GRC, GitHub, 
 
 ## skills
 
-- **Application Security**
-- **DevSecOps**
-- **Risk Assessment**
-- **Risk Management**
-- **Project Management**
-- **Vulnerability Management**
-- **Continuous Monitoring**
-- **Security Assessment**
-- **Security Operations**
-- **FedRAMP Audits**
-- **HIPAA Security**
-- **Compliance Management**
-- **System Administration**
-- **System Configuration**
-- **Strategic Planning**
-- **Problem Solving**
-- **Software Supply Chain Security**
-- **Security Automation**
-- **Secure SDLC**
-- **SAST/DAST**
+| 🛡️ | 🔒 |
+|:----------|----------:|
+| **Application Security** | **Security Assessment** |
+| **DevSecOps** | **Security Operations** |
+| **Risk Assessment** | **FedRAMP Audits** |
+| **Risk Management** | **HIPAA Security** |
+| **Project Management** | **Compliance Management** |
+| **Vulnerability Management** | **System Administration** |
+| **Continuous Monitoring** | **System Configuration** |
+| **Strategic Planning** | **Problem Solving** |
+| **Software Supply Chain Security** | **Security Automation** |
+| **Secure SDLC** | **SAST/DAST** |
+
 
 ---
 
