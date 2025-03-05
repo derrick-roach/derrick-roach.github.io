@@ -1,12 +1,14 @@
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="100">
-<br><br>
 
 Hi, I'm Derrick 👋 welcome to my laboratory! 🧪
 
 This is my place to share my experiments, projects, and more.
 
+<br><br>
 ---
+<br><br>
 
 ## 📝 about me
 
@@ -20,8 +22,9 @@ Cybersecurity and AI professional with experience in AWS security, GRC, GitHub, 
 | 🤔 **Master overthinker** | 🤷 **Skeptical optimist** | 📜 **Polymath** |
 | 🏋️ **Armchair athlete** | 🤓 **Wise fool** | 🧘 **Stoic** |
 
-
+<br><br>
 ---
+<br><br>
 
 ## 🥽 experiments & projects 🚀
 
@@ -37,9 +40,9 @@ Cybersecurity and AI professional with experience in AWS security, GRC, GitHub, 
 > 
 > Personal finance mentor blending Ben Franklin’s timeless wisdom with modern money strategies.
 
-<div align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="900">
-</div>
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="900">
+<br><br>
 
 ## ⚙️ skills 🛠️
 
@@ -56,11 +59,11 @@ Cybersecurity and AI professional with experience in AWS security, GRC, GitHub, 
 | **Software Supply Chain Security** | **Security Automation** |
 | **Secure SDLC** | **SAST/DAST** |
 
-<div align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">&nbsp;
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="100">&nbsp;
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="100">&nbsp;
-</div>
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">&nbsp;
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="100">&nbsp;
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="100">&nbsp;
+<br><br>
 
 ## 🔗 links
 
@@ -70,6 +73,8 @@ Cybersecurity and AI professional with experience in AWS security, GRC, GitHub, 
 
 [![See this repo on GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/derrick-roach/derrick-roach.github.io)
 
+<br><br>
 
+Made with 💚 by [Derrick](https://github.com/derrick-roach)
 
-<p align="center">Made with 💚 by <a href="https://github.com/derrick-roach">Derrick</a></p>
+</div>
