@@ -5,6 +5,23 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+    align-content: center;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
 }
 
 img {
@@ -17,9 +34,32 @@ p {
     margin: 10px 0;
 }
 
+h1 {
+    text-align: center;
+    color: limegreen;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+h1:hover {
+    color: #000; /* Change color on hover */
+    transform: scale(1.5); /* Slightly enlarge the text on hover */
+    text-shadow: 
+        -2px -2px 0 limegreen,  
+         2px -2px 0 limegreen,
+        -2px  2px 0 limegreen,
+         2px  2px 0 limegreen; /* Enhance the text shadow on hover */
+}
+
 h2 {
     text-align: center;
     color: #444;
+}  
+
+#hand-wave {
+    margin: 20px auto;
+    width: 100px;
+    height: 100px;
 }
 
 .card {
@@ -31,6 +71,13 @@ h2 {
     transition: transform 0.2s;
     width: 70%;
     margin: 20px auto;
+}
+
+.card img {
+    width: 20%;
+    height: 20%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 15px;
 }
 
 .card:hover {
@@ -59,6 +106,7 @@ a img {
 
 a {
     text-decoration: none;
+    color: limegreen;
 }
 
 a:hover {
@@ -83,7 +131,6 @@ footer {
     padding: 20px;
     background: #333;
     color: #fff;
-    position: fixed;
     width: 100%;
     bottom: 0;
 }

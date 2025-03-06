@@ -1,3 +1,4 @@
+# [Derrick's Laboratory](https://github.com/derrick-roach)
 
 <img src="./images/hand-wave.gif" width="100">
 
