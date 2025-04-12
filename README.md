@@ -1,6 +1,9 @@
-# [Derrick's Laboratory](https://github.com/derrick-roach)
-
+<a href="https://derrick-roach.github.io/">
+    <img src="./images/derricks-laboratory-wide.png" width="900">
+</a>
+<br><br><br>
 <img src="./images/hand-wave.gif" width="100">
+<br><br>
 
 Hi, I'm Derrick 👋 welcome to my laboratory! 🧪
 
@@ -23,6 +26,14 @@ This is my place to share my experiments, projects, and more.
 > **[The Way to Wealth](https://chatgpt.com/g/g-67b565c48c8081919a17a2aac2af0b8f-the-way-to-wealth)**
 > 
 > Personal finance mentor blending Ben Franklin’s timeless wisdom with modern money strategies.
+
+> **[Uptime Monitor for select Microsoft-owned Sites](https://derrick-roach.github.io/microsoft-uptime/)**
+> 
+> An open-source uptime monitor and status page, powered entirely by GitHub. This is a sample status page that regularly checks availability of several Microsoft-owned sites. No server required — just GitHub Actions, Issues, and Pages.
+
+> **[U.S. Federal Government Website Uptime Monitor](https://derrick-roach.github.io/us-fed-gov-uptime/)**
+> 
+> An open-source uptime monitor and status page, powered entirely by GitHub. This is a sample status page which regularly checks availability of several US Federal Government websites. No server required — just GitHub Actions, Issues, and Pages.
 
 <br><br>
 <img src="./images/code-brackets.gif" width="100">&nbsp;

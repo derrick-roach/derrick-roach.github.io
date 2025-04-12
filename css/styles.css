@@ -4,16 +4,19 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    color: #333;
+    color: #333; /* Dark text color for contrast */
     align-content: center;
 }
 
 header {
-    background-color: #333;
+    background-color: #000;
     color: white;
-    padding: 20px 0;
+    padding: 5px 0;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 900px; /* Set the width to 900px */
+    margin: 20px auto; /* Center the header horizontally */
+    border-radius: 50px; /* Add rounded corners */
 }
 
 #main {
@@ -43,7 +46,7 @@ h1 {
 
 h1:hover {
     color: #000; /* Change color on hover */
-    transform: scale(1.5); /* Slightly enlarge the text on hover */
+    transform: scale(1.1); /* Slightly enlarge the text on hover */
     text-shadow: 
         -2px -2px 0 limegreen,  
          2px -2px 0 limegreen,
@@ -60,6 +63,10 @@ h2 {
     margin: 20px auto;
     width: 100px;
     height: 100px;
+}
+
+#laptop-wide {
+    border-radius: 50px; /* Add rounded corners */
 }
 
 .card {
