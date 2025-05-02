@@ -37,7 +37,7 @@ This is my place to share my experiments, projects, and more.
 
 > **[Free ZAP Baseline Scan](https://github.com/derrick-roach/free-zap-baseline-scan)**
 > 
-> A GitHub-powered (Actions & Issues) passive security testing tool using ZAP baseline scan to quickly identify misconfigurations and vulnerabilities in web applications.
+> A GitHub-powered (Actions & Issues) passive security testing tool using ZAP baseline scan to quickly identify security misconfigurations and vulnerabilities in web applications.
 
 <br><br>
 <img src="./images/code-brackets.gif" width="100">&nbsp;
