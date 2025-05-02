@@ -35,6 +35,10 @@ This is my place to share my experiments, projects, and more.
 > 
 > An open-source uptime monitor and status page, powered entirely by GitHub. This is a sample status page which regularly checks availability of several US Federal Government websites. No server required — just GitHub Actions, Issues, and Pages.
 
+> **[Free ZAP Baseline Scan](https://github.com/derrick-roach/free-zap-baseline-scan)**
+> 
+> A GitHub-powered (Actions & Issues) passive security testing tool using ZAP baseline scan to quickly identify misconfigurations and vulnerabilities in web applications.
+
 <br><br>
 <img src="./images/code-brackets.gif" width="100">&nbsp;
 <img src="./images/gears.gif" width="100">&nbsp;
